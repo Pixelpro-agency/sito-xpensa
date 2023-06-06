@@ -182,7 +182,7 @@ export const testimonials = {
       message:
         'Eleifend fames amet, fames enim. Ullamcorper pellentesque ac volutpat nibh aliquet et, ut netus. Vel, fringilla sit eros pretium',
       image: AvatarImg1,
-      name: 'Cameron Williamson',
+      name: 'Gianna Astoni',
       position: 'CEO',
       borderColor: '#FF7235',
     },
@@ -190,7 +190,7 @@ export const testimonials = {
       message:
         'Eleifend fames amet, fames enim. Ullamcorper pellentesque ac volutpat nibh aliquet et, ut netus. Vel, fringilla sit eros pretium',
       image: AvatarImg2,
-      name: 'Shirley Hand',
+      name: 'Gianna Astoni',
       position: 'CEO',
       borderColor: '#FFBE21',
     },
@@ -198,7 +198,7 @@ export const testimonials = {
       message:
         'Eleifend fames amet, fames enim. Ullamcorper pellentesque ac volutpat nibh aliquet et, ut netus. Vel, fringilla sit eros pretium',
       image: AvatarImg3,
-      name: 'Dr. Olivia Hansen',
+      name: 'Gianna Astoni',
       position: 'CEO',
       borderColor: '#4756DF',
     },
@@ -206,7 +206,7 @@ export const testimonials = {
       message:
         'Eleifend fames amet, fames enim. Ullamcorper pellentesque ac volutpat nibh aliquet et, ut netus. Vel, fringilla sit eros pretium',
       image: AvatarImg4,
-      name: 'Aubrey Sanford',
+      name: 'Gianna Astoni',
       position: 'CEO',
       borderColor: '#3EC1F3',
     },
@@ -214,7 +214,7 @@ export const testimonials = {
       message:
         'Eleifend fames amet, fames enim. Ullamcorper pellentesque ac volutpat nibh aliquet et, ut netus. Vel, fringilla sit eros pretium',
       image: AvatarImg5,
-      name: 'Terri Conroy',
+      name: 'Gianna Astoni',
       position: 'CEO',
       borderColor: '#BB7259',
     },
